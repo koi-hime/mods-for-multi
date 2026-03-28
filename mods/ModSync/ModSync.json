@@ -1,0 +1,11 @@
+{
+  "id": "ModSync",
+  "name": "ModSync",
+  "author": "Tbonex28b",
+  "description": "Allows modded multiplayer without mod mismatch disconnects. Both players must have this mod installed.",
+  "version": "v1.04",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
