@@ -1,4 +1,6 @@
 {
+  "id": "MiniMap-config",
+  "name": "MiniMap Config",
   "overlay_left": 16,
   "overlay_top": 158,
   "overlay_width": 260,

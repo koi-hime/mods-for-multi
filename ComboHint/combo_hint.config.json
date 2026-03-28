@@ -1,4 +1,5 @@
 {
+  "id": "ComboHint-config",
   "bubbleDurationSeconds": 3,
   "triggerModelIds_weakendefence": [
     "FLANKING",
