@@ -1,0 +1,10 @@
+{
+  "id": "STS2AutoSlayMod",
+  "name": "AutoSlay Unlock",
+  "author": "Thebuda4",
+  "description": "Dev/testing tool that unlocks and extends the built-in AutoSlay automated runner. Adds an AUTO SLAY button to the main menu. Configurable via autoslay_settings.json: choose character (random/silent/regent/defect/necrobinder), after-run behaviour (close/menu/loop), and verbose debug logging. Press F9 during a run to pause/resume AutoSlay. Does not alter cards, balance, or game rules.",
+  "version": "1.3.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": false
+}

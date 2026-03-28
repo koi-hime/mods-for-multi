@@ -1,0 +1,10 @@
+{
+  "_help_afterRun": "Options: close (quit game), menu (return to main menu), loop (start a new run immediately)",
+  "afterRun": "loop",
+  "_help_character": "Options: random, ironclad, silent, regent, defect, necrobinder",
+  "character": "random",
+  "_help_seed": "Hex seed string to use for every run (e.g. 1A2B3C4D). Leave empty to generate a new random seed each run.",
+  "seed": "",
+  "_help_verboseDebug": "Set to true to print detailed AutoSlay diagnostics to godot.log. Default false — enable only when debugging crashes.",
+  "verboseDebug": false
+}
